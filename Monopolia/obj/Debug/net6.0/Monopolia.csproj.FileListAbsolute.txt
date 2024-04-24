@@ -1,0 +1,12 @@
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\bin\Debug\net6.0\Monopolia.deps.json
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\bin\Debug\net6.0\Monopolia.dll
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\bin\Debug\net6.0\Monopolia.pdb
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.csproj.AssemblyReference.cache
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.AssemblyInfoInputs.cache
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.AssemblyInfo.cs
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.csproj.CoreCompileInputs.cache
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.dll
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\refint\Monopolia.dll
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\Monopolia.pdb
+C:\Users\sdc_a\RiderProjects\MonopoliaTest\Monopolia\obj\Debug\net6.0\ref\Monopolia.dll
